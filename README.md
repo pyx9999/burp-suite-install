@@ -1,6 +1,6 @@
 # burp-suite-install
 
-this is a sell script to install burp suite on a linux system.
+this is a shell script to install burp suite on a linux system.
 
 download burpsuite:
 
