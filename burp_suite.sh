@@ -28,3 +28,4 @@ else
     echo "User chose NO. Aborting the operation..."
     exit
 fi
+exit
