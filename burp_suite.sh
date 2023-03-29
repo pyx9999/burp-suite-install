@@ -2,7 +2,7 @@
 
 #run after downloading burpsuite
 
-echo $(whoami) "...did you downloaded burpsuite??? "
+echo $(whoami) "...did you download burpsuite??? "
 
 function confirm() {
     while true; do
