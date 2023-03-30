@@ -30,4 +30,5 @@ else
     echo "please download burp suite"
     exit
 fi
+
 exit
