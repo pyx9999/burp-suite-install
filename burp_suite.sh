@@ -23,6 +23,7 @@ if confirm; then
     cd Downloads
     chmod +x ./burpsuite_community_linux_*.sh
     ./burpsuite_community_linux_*.sh
+    exit
 
 else
     echo "User chose NO. Aborting the operation..."
