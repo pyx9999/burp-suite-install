@@ -6,6 +6,8 @@ download burpsuite:
 
 https://portswigger.net/burp/communitydownload
 
+save in downloads
+
 open terminal
 
 git clone https://github.com/pyx9999/burp-suite-install.git
