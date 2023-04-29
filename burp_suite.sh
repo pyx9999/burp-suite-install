@@ -27,7 +27,7 @@ if confirm; then
 
 else
     echo "User chose NO. Aborting the operation..."
-    echo "please download burp suite"
+    echo "please download burp suite shell script from their website"
     exit
 fi
 
